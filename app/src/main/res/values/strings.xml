@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AssignmentReminder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_assignment">MenuAssignment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_assignment_list">Assignments</string>
+    <string name="title_assignment_detail">Assignment Detail</string>
+    <string name="title_activity_view_assignments">ViewAssignments</string>
+    <string name="title_activity_reminder">Reminder</string>
+    <string name="title_activity_my_activity">my_activity</string>
+    <string name="title_activity_time_reminder">TimeReminder</string>
+</resources>
