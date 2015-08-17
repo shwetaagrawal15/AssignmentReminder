@@ -1,4 +1,7 @@
-package com.contactmanager.home.assignmentreminder;
+//Copyright (c) 2015 Shweta Agrawal 
+//This source file is licensed under the "MIT License". 
+//Please see the file COPYING in this distribution for license terms.
+ com.contactmanager.home.assignmentreminder;
 
 /**
  * Created by home on 7/29/2015.
