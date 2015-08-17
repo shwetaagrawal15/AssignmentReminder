@@ -1,3 +1,11 @@
+<!--
+/************************************************************************************
+ *   Copyright (C) 2015 Shweta Agrawal                                     *
+ *   This project is licensed under the "MIT License". Please see the file          *
+ *   "LICENSE" in this distribution for license terms.                                        *
+ *                                                                                  *
+ ************************************************************************************/
+-->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
