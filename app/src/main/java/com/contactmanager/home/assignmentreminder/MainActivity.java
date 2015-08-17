@@ -1,3 +1,6 @@
+//Copyright (c) 2015 Shweta Agrawal 
+//This source file is licensed under the "MIT License". 
+//Please see the file COPYING in this distribution for license terms.
 package com.contactmanager.home.assignmentreminder;
 
 import android.content.Intent;
@@ -59,7 +62,7 @@ public class MainActivity extends ActionBarActivity {
  db.open();
  long id = db.insertRecord("Hello World", "2/18/2012", "DPR 224", "First Android Project");
  id = db.insertRecord("Workbook Exercises", "3/1/2012", "MAT 100", "Do odd
-… numbers");
+â€¦ numbers");
  db.close();
  */
 
@@ -84,7 +87,7 @@ public class MainActivity extends ActionBarActivity {
  DisplayRecord(c);
  else
  Toast.makeText(this, "No Assignments found",
-… Toast.LENGTH_LONG).show();
+â€¦ Toast.LENGTH_LONG).show();
  db.close();
  */
 
@@ -92,7 +95,7 @@ public class MainActivity extends ActionBarActivity {
          /*
  db.open();
  if (db.updateRecord(1, "Hello Android", "2/19/2012", "DPR 224", "First
-… Android Project"))
+â€¦ Android Project"))
  Toast.makeText(this, "Update successful.", Toast.LENGTH_LONG).show();
  else
  Toast.makeText(this, "Update failed.", Toast.LENGTH_LONG).show();
