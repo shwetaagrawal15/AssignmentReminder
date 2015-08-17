@@ -1,3 +1,11 @@
+<!--
+/************************************************************************************
+ *   Copyright (C) 2015 Shweta Agrawal                                     *
+ *   This project is licensed under the "MIT License". Please see the file          *
+ *   "LICENSE" in this distribution for license terms.                                        *
+ *                                                                                  *
+ ************************************************************************************/
+-->
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.contactmanager.home.assignmentreminder" >
