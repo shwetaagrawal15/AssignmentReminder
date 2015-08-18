@@ -6,7 +6,7 @@ This Android app is useful for the students which helps them to add, view and ev
 
 You should have received a copy of the MIT License along with this program. 
 
-License Information: https://github.com/shwetaagrawal15/AssignmentReminder/edit/master/License.txt
+License Information: https://github.com/shwetaagrawal15/AssignmentReminder/blob/master/LICENSE
 
 Author: Shweta Agrawal
 
